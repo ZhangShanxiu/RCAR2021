@@ -64,6 +64,8 @@ website of RCAR2021
 
     `npm run build`
 
+    *ps:* `npm run server`可以在本地测试
+
 3. run web in localhost://3000
 
     `cd server `
