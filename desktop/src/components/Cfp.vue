@@ -1,12 +1,6 @@
 <template>
   <div class="fs-xxl">
-    <div class="msg bg-white px-2" style="background-color:White;margin-left:50px;margin-top:50px;">
-        <h1>Call For Papers</h1>
-        <Cfp />
-    </div>
-
-    <!-- <h1>Call For Paper</h1>
-    <p>The 2021 IEEE International Conference on Real-time Computing 
+    <p>Welcome to Xining. The 2021 IEEE International Conference on Real-time Computing 
       and Robotics (IEEE RCAR 2021) will take place from July 15 to 19, 2021 in the beautiful 
       city of Xining, Qinghai, China. The objective of this conference is to provide a forum 
       for researchers in robotics and real-time computing to share the latest results and to 
@@ -53,27 +47,16 @@
       site Taer Monastery and Dongguan Mosque. It is only 150 kilometers away from Qinghai 
       Lake, the largest saltwater lake in inland China.</p>
     <p>IEEE RCAR 2021 promises to be a great event for all participants, with excellent 
-      technical and social programs.</p> -->
+      technical and social programs.</p>
   </div>
 </template>
 
-
 <script>
-import Vue from "vue";
-import Cfp from "./../components/Body.vue";
-import { ImagePlugin } from "bootstrap-vue";
-Vue.use(ImagePlugin);
-export default {
-  name: "CallForPapers",
-  components: {
-    Cfp
-  },
-};
+export default {};
 </script>
 
 <style>
-.Cfp {
-  max-width: 1366px;
-  margin:auto;
+.phead {
+  font-style: italic;
 }
 </style>

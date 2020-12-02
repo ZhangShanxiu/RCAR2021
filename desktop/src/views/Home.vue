@@ -38,7 +38,7 @@
       <div class="msg bg-white px-2">
         <Register_anmt/>
       </div> -->
-      <h4 class="pt-2 text-center text-red">
+      <!-- <h4 class="pt-2 text-center text-red">
         New Announcement 
       <i class="el-icon --right"></i>
       </h4>
@@ -65,7 +65,7 @@
       </h4>
       <div class="msg bg-white px-2">
         <Announcement />
-      </div>
+      </div> -->
       <!-- <h4 class="pt-2 text-center">
         Schedule
       <i class="el-icon--right"></i>
