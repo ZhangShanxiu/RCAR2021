@@ -19,7 +19,7 @@
           Keynote Speaker <i class="el-icon-arrow-right"></i></span
       ></router-link>
     </div>
-    <div class="head-bar imp">
+    <!-- <div class="head-bar imp">
       Important Announcement
       <i class="el-icon-warning pl-2 imp"></i>
     </div>
@@ -68,7 +68,7 @@
           July.1st
         </p>
       </div>
-    </div>
+    </div> -->
     <Welcom />
     <Router-link
       tag="div"

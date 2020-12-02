@@ -95,7 +95,7 @@ import Carousel from "./../components/Carousel.vue";
 import Body from "./../components/Body.vue";
 import TimeTable from "./../components/TimeTable.vue";
 import NewAnnouncement from "./../components/NewAnnouncement.vue";
-// import NewTimeTable from "./../components/NewTimeTable.vue";
+import NewTimeTable from "./../components/NewTimeTable.vue";
 import Announcement from "./../components/Announcement.vue";
 import Download from "./../components/Download.vue";
 import CenferenceSchedule from "./../components/ConferenceSchedule.vue"
@@ -108,11 +108,11 @@ export default {
     Carousel,
     Body,
     TimeTable,
-    Download,
-    NewAnnouncement,
+    // Download,
+    // NewAnnouncement,
     // NewTimeTable,
-    Announcement,
-    CenferenceSchedule,
+    // Announcement,
+    // CenferenceSchedule,
     Register_anmt,
   },
 };

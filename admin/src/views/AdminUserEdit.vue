@@ -36,6 +36,7 @@ export default {
       } else {
          await this.$http.post('rest/admin_users', this.model)
       }
+      // 跳转
       this.$router.push('/admin_users/list')
       this.$message({
         type: 'success',

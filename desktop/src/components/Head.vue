@@ -5,12 +5,12 @@
     </div>
     <span class="text text-right flex-1" >
       <h4>
-        <b>2020 IEEE International Conference on Real-time</b>
+        <b>2021 IEEE International Conference on Real-time</b>
       </h4>
       <h4>
         <b>Computing and Robotics</b>
       </h4>
-      <h2 class="pt-3"><strong> Meeting Date: Sep. 28~29, 2020</strong></h2>
+      <h2 class="pt-3"><strong> Meeting Date: July. 15~19, 2021</strong></h2>
     </span>
   </div>
 </template>

@@ -4,7 +4,7 @@ module.exports = app => {
   const jwt = require("jsonwebtoken");
   const Ariticle = require("./../../models/Article");
   const AdminUser = require("../../models/AdminUser");
-  const router = express.Router({
+  const router = express.Router({//子路由
     mergeParams: true
   });
 

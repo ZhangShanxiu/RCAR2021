@@ -84,6 +84,16 @@ export default {
           web: "http://rcar2019.bigsmilelab.ac.cn/",
           web_valid: true,
           assign: `img-left`
+        },
+        h2020: {
+          head:
+            "The 2020 International Conference on Real-time Computing and Robotics (RCAR 2020)",
+          location: "Asahikawa, Japan",
+          time: "September 28-29, 2020",
+          img: require("./../../../src/images/2020.png"),
+          web: "https://www.ieee-rcar.com/",
+          web_valid: true,
+          assign: `img-left`
         }
       },
     };
