@@ -1,6 +1,6 @@
 <template>
   <div class="fs-xxl">
-    <p>Welcome to Xining. The 2021 IEEE International Conference on Real-time Computing 
+    <p>The 2021 IEEE International Conference on Real-time Computing 
       and Robotics (IEEE RCAR 2021) will take place from July 15 to 19, 2021 in the beautiful 
       city of Xining, Qinghai, China. The objective of this conference is to provide a forum 
       for researchers in robotics and real-time computing to share the latest results and to 

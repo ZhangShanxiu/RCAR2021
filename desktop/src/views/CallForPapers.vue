@@ -1,7 +1,7 @@
 <template>
   <div class="fs-xxl">
-    <div class="msg bg-white px-2" style="background-color:White;margin-left:50px;margin-top:50px;">
-        <h1>Call For Papers</h1>
+    <div class="msg bg-white px-2" style="background-color:White;">
+        <h1 style="margin-left:20px;">Call For Papers</h1>
         <Cfp />
     </div>
 
