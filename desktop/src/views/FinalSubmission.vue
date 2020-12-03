@@ -1,8 +1,8 @@
 <template>
   <div class="body-main">
-    <div class="server-articles">
+    <!-- <div class="server-articles">
       <div class="px-3 bg-white fs-xxl" v-html="models[2].submenus[1].body"></div>
-    </div>
+    </div> -->
   </div>
 </template>
 

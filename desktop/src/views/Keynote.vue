@@ -3,7 +3,7 @@
       <h1 span style="color:rgb(0,102,204)">
         Keynote Speakers
       </h1>
-      <br>
+      <!-- <br>
       <h3 style="margin-top:10px; margin-bottom:10px;">
         <strong> Keynote Talk Ⅰ: 13:00-13:30, Monday, Sep. 28</strong>
       </h3>
@@ -101,7 +101,7 @@
         <strong>Biography:</strong>
         Lin Wang is a Professor in the Department of Automation, Shanghai Jiao Tong University. She received her Ph.D. degree in control theory from Academy of Mathematics and Systems Science, Chinese Academy of Sciences in 2009. From Apr. 2010 to Sep. 2010 and Sep. 2011 to Feb. 2012, she was a Guest Researcher at Royal Institute of Technology (KTH), Sweden. From Jan. 2016 to Mar. 2016, she was a Research Fellow at the City University of Hong Kong. From Jan. 2018 to Aug. 2018, she was a Visiting Associate Professor at Harvard University, and from Aug. 2018 to Jan. 2019, she was a visiting Associate Professor at the Media Lab of Manchester Institute of Technology (MIT). She was a recipient of the Best Theory Paper Award at the 13th World Congress on Intelligent Control and Automation in 2018, and a recipient of the Excellent Scientific Paper in the Field of Electronic Information in 2020. She is a Senior Member of IEEE, and serves as the General Secretary of the Chinese Chapter of Network Science Society, General Secretary of the CSIAM Activity Group on Complex Networks and Complex Systems. Her current research interests are adaptive complex networks, and coordination of multi-agent systems.
         </p>
-      </h5>
+      </h5> -->
 
 
   </div>

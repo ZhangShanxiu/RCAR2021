@@ -1,6 +1,6 @@
 <template>
   <div class="body-main border-body bg-white ql-align-articles px-3">
-      <h1 span style="color:rgb(0,102,204)">
+      <!-- <h1 span style="color:rgb(0,102,204)">
         Registration
       </h1>
       <h4 style="margin-top:10px; margin-bottom:10px;">
@@ -53,7 +53,7 @@
       </h5>
       <div>
         <img src="./../../../src/images/20200925145023.jpg" width="200" height="200">
-      </div>
+      </div> -->
   </div>
 </template>
 
