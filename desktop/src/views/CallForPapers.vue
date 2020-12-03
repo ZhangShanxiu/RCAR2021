@@ -72,7 +72,7 @@
 
 <script>
 import Vue from "vue";
-import Cfp from "./../components/Body.vue";
+import Cfp from "./../components/Cfp.vue";
 import TimeTable from "./../components/TimeTable.vue";
 import { ImagePlugin } from "bootstrap-vue";
 Vue.use(ImagePlugin);
