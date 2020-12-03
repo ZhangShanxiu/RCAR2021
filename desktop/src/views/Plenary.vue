@@ -1,8 +1,8 @@
 <template>
   <div class="body-main border-body bg-white ql-align-articles px-3">
     <h1 span style="color: rgb(0, 102, 204)">Plenary Speakers</h1>
-    <!-- <br />
-    <h3 style="margin-top: 10px; margin-bottom: 10px">
+    <br />
+    <!-- <h3 style="margin-top: 10px; margin-bottom: 10px">
       <strong> Plenary Talk Ⅰ: 9:00-9:50, Monday, Sep. 28</strong>
     </h3>
     <br />

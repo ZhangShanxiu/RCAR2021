@@ -14,20 +14,9 @@
         >请更新你的浏览器到最新版本</video>
         <div
           class="text-grey py-1 border-bottom"
-        >RCAR 2020 Welcome. Part of video comes from youtube . Thanks to the author.</div>
+        >RCAR 2021 Welcome. Part of video comes from youtube . Thanks to the author.</div>
       </div>-->
-      <h4 class="pt-2 text-center">
-        Important Dates
-        <i class="el-icon-date el-icon--right"></i>
-      </h4>
-      <el-row type="flex" class="row-bg" justify="space-around">
-        <el-col :span="7.5">
-          <div class="grid-content bg-purple"></div>
-        </el-col>
-      </el-row>
-      <div class="mx-5 text-center">
-        <TimeTable />
-      </div>
+      
       <!-- <div class="msg text-red py-2 mx-13">
         <Announcement />
       </div> -->
@@ -93,7 +82,6 @@
 import Vue from "vue";
 import Carousel from "./../components/Carousel.vue";
 import Body from "./../components/Body.vue";
-import TimeTable from "./../components/TimeTable.vue";
 import NewAnnouncement from "./../components/NewAnnouncement.vue";
 import NewTimeTable from "./../components/NewTimeTable.vue";
 import Announcement from "./../components/Announcement.vue";
@@ -107,7 +95,7 @@ export default {
   components: {
     Carousel,
     Body,
-    TimeTable,
+    // TimeTable,
     // Download,
     // NewAnnouncement,
     // NewTimeTable,

@@ -4,6 +4,18 @@
         <h1 style="margin-left:20px;">Call For Papers</h1>
         <Cfp />
     </div>
+    <h4 class="pt-2 text-center">
+      Important Dates
+      <i class="el-icon-date el-icon--right"></i>
+    </h4>
+    <el-row type="flex" class="row-bg" justify="space-around">
+      <el-col :span="7.5">
+        <div class="grid-content bg-purple"></div>
+      </el-col>
+    </el-row>
+    <div class="mx-5 text-center">
+      <TimeTable />
+    </div>
 
     <!-- <h1>Call For Paper</h1>
     <p>The 2021 IEEE International Conference on Real-time Computing 
@@ -61,12 +73,14 @@
 <script>
 import Vue from "vue";
 import Cfp from "./../components/Body.vue";
+import TimeTable from "./../components/TimeTable.vue";
 import { ImagePlugin } from "bootstrap-vue";
 Vue.use(ImagePlugin);
 export default {
   name: "CallForPapers",
   components: {
-    Cfp
+    Cfp,
+    TimeTable,
   },
 };
 </script>

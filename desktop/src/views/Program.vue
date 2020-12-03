@@ -3,8 +3,8 @@
       <h1 span style="color:rgb(0,102,204)">
         Program at a Glance
       </h1>
-      <!-- <br>
-      <h3><strong>The way for live presentation:</strong></h3>
+      <br>
+      <!-- <h3><strong>The way for live presentation:</strong></h3>
       <h5>
       <p>The authors of the registered papers should make a live presentation in the time slot of the program. The authors can also choose to play the pre-recorded presentation video. The video files submitted to the conference site will be used as the backup. The duration of the presentation is 
         <font color="#FF0000">ten minutes</font>

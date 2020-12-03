@@ -10,7 +10,7 @@
       <h4>
         <b>Computing and Robotics</b>
       </h4>
-      <h2 class="pt-3"><strong> Meeting Date: July. 15~19, 2021</strong></h2>
+      <h2 class="pt-3"><strong> July. 15-19, 2021, Xining, China</strong></h2>
     </span>
   </div>
 </template>
@@ -33,8 +33,12 @@ export default {
   float: right;
   font-size: 1.3em;
   font-weight: 600;
-  color: #3E99C9;
+  color: rgb(6, 17, 114);
   margin-bottom: 0.5em;
   letter-spacing: .08em;
 }
+h4{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 </style>
