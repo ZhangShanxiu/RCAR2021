@@ -1,8 +1,9 @@
 <template>
   <div class="body-main">
-    <!-- <div class="server-articles">
-      <div class="px-3 bg-white fs-xxl" v-html="models[2].submenus[1].body"></div>
-    </div> -->
+    <div class="server-articles">
+      <h1 align="center">Coming Soon...</h1>
+      <!-- <div class="px-3 bg-white fs-xxl" v-html="models[2].submenus[1].body"></div> -->
+    </div>
   </div>
 </template>
 
