@@ -33,7 +33,7 @@
     <h3 style="margin-left:50px;margin-top:30px;">Reginal Program Chairs:</h3>
         <p style="margin-left:50px">Shiwu Zhang, USTC, China</p>
         <p style="margin-left:50px">Dezhen Song, Texas A&M Univ., USA</p>
-        <p style="margin-left:50px">Chi  Zhu,  Mae. I.T., Japan</p>
+        <p style="margin-left:50px">Chi Zhu,  Mae. I.T., Japan</p>
         <p style="margin-left:50px">Xuesong Wang, CUMT, China</p>
         <p style="margin-left:50px">Li Zhang, CUHK, Hongkong</p>
         <p style="margin-left:50px">Wanfeng Shang, CAS SIAT, China</p>
@@ -44,8 +44,11 @@
         <p style="margin-left:50px">Yongchun Fang, Nankai Univ., China</p>
     <h3 style="margin-left:50px;margin-top:30px;">Publicity Chairs:</h3>
         <p style="margin-left:50px">Wei Dai, CUMT, China</p>
+        <p style="margin-left:50px">Shibo Cai, ZJUT, China</p>
     <h3 style="margin-left:50px;margin-top:30px;">Publications Chair:</h3>
         <p style="margin-left:50px">Zhidong Wang, Chi. I.T., Japan </p>
+    <h3 style="margin-left:50px;margin-top:30px;">Publications Co-Chairs:</h3>
+        <p style="margin-left:50px">Jiangfan Yu, CUHK Shenzhen, China </p>
     <h3 style="margin-left:50px;margin-top:30px;">Local Arrangement Chairs:</h3>
         <p style="margin-left:50px">Guoyuan Liang, CAS SIAT, China</p>
         <p style="margin-left:50px">Bin Guo, Qinghai Univ., China</p>
