@@ -42,6 +42,7 @@
     <h3 style="margin-left:50px;margin-top:30px;">Awards Committee Chairs:</h3>
         <p style="margin-left:50px">Dong Sun,  CityU, Hongkong</p>
         <p style="margin-left:50px">Yongchun Fang, Nankai Univ., China</p>
+        <p style="margin-left:50px">Xin Xu, NUDT, China</p>
     <h3 style="margin-left:50px;margin-top:30px;">Publicity Chairs:</h3>
         <p style="margin-left:50px">Wei Dai, CUMT, China</p>
         <p style="margin-left:50px">Shibo Cai, ZJUT, China</p>
