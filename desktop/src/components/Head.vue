@@ -33,7 +33,8 @@ export default {
   float: right;
   font-size: 1.3em;
   font-weight: 600;
-  color: rgb(6, 17, 114);
+  // color: rgb(6, 17, 114);
+  color: #3E99C9;
   margin-bottom: 0.5em;
   letter-spacing: .08em;
 }

@@ -7,10 +7,11 @@
       <span class="flex-1 pr-1">Initial Submission</span>
     </div>
     <div class="ql-container ql-snow">
-      <div
+      <h1 align="center">Coming Soon...</h1>
+      <!-- <div
         class="ql-editor body-main px-3 bg-white fs-xxl"
         v-html="models[2].submenus[0].body"
-      ></div>
+      ></div> -->
     </div>
   </div>
 </template>

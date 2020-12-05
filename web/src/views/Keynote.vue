@@ -1,7 +1,8 @@
 <template>
   <div class="history border-body">
     <div class="accordion" role="tablist">
-      <div v-for="(info, i) in speaker_info" :key="i">
+      <h1 align="center">Coming Soon...</h1>
+      <!-- <div v-for="(info, i) in speaker_info" :key="i">
         <b-card no-body class="mb-1">
           <b-card-header header-tag="header" class="p-1" role="tab">
             <b-button block v-b-toggle="info.id" variant="info">{{
@@ -55,7 +56,7 @@
             </b-card-body>
           </b-collapse>
         </b-card>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>

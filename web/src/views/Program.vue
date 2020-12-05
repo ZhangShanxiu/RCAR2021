@@ -6,7 +6,8 @@
       </router-link>
       <span class="flex-1 pr-1">Program at a Glance</span>
     </div>
-    <h4 style="margin-top:10px; margin-bottom:10px;">
+    <h1 align="center">Coming Soon...</h1>
+    <!-- <h4 style="margin-top:10px; margin-bottom:10px;">
       The way for live presentation:
     </h4>
     <h5 style="ai-center">
@@ -31,7 +32,7 @@
         <font>
              <a href="http://www.ieee-rcar.com/uploads/IEEE_RCAR_2020_Detailed_Technical_Program.pdf" target="_blank" style="background-color:transparent;color: rgb(250,0,0);">Click here to download the Detailed Technical Program in PDF</a>
         </font>
-      </div>
+      </div> -->
   </div>
 </template>
 

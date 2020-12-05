@@ -37,31 +37,31 @@ export default {
     return {
       tableDate: [
         {
-          date: "Apr.20,2020",
+          date: "Feb.20,2021",
           info: "Submission of papers",
-          old_date: "Mar.20,2020",
+          // old_date: "Mar.20,2020",          
           url: "./InitialSubmission"
         },
         {
-          date: "Apr.20,2020",
+          date: "Feb.20,2021",
           info: "Submission of organized session/workshop",
-          old_date: "Mar.20,2020"
+          // old_date: "Mar.20,2020"        
         },
         {
-          date: "May.1,2020",
-          info: "Notificationof acceptance",
-          old_date: "Apr.20,2020"
+          date: "Apr.20,2021",
+          info: "Notification of acceptance",
+          // old_date: "Apr.20,2020"        
         },
         {
-          date: "May.31,2020",
+          date: "May.1,2021",
           info: "Final paper submission",
-          old_date: "May.8,2020",
+          // old_date: "May.8,2020",          
           url: "./FinalSubmission"
         },
         {
-          date: "Sep.18,2020",
+          date: "May.1,2021",
           info: "Early bird registration",
-          old_date: "May.31.2020",
+          // old_date: "May.31,2020",          
           url: "./Registration"
         }
       ]

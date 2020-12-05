@@ -4,10 +4,10 @@
         <p style="margin-left:50px">Han Ding , HUST, China</p>
         <p style="margin-left:50px">Yangsheng Xu, CUHK Shenzhen, China</p>
         <p style="margin-left:50px">Yaonan Wang, Hunan Univ., China</p>
+        <p style="margin-left:50px">Guangqian Wang, Qinghai Univ., China</p>
         <p style="margin-left:50px">Yunhui Liu, CUHK, Hongkong</p>
         <p style="margin-left:50px">Jie Zhao, HIT, China</p>
         <p style="margin-left:50px">Jiancheng Lv, CAS SIAT, China</p>
-        <p style="margin-left:50px">Guangqian Wang, Qinghai Univ., China</p>
         <p style="margin-left:50px">Guanglin Li, CAS SIAT, China</p>
     <h3 style="margin-left:50px;margin-top:30px;">General Chair:</h3>
         <p style="margin-left:50px">Xinyu Wu, CAS SIAT, China</p>

@@ -6,7 +6,7 @@
             <img src="./../../../src/logo/logo.png" class="d-inline-block align-top" style="max-width:35px" />
           </router-link>
         </b-navbar-brand>
-        <span class="text-white fs-xxl">IEEE RCAR 2020</span>
+        <span class="text-white fs-xxl">IEEE RCAR 2021</span>
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
         <!-- collapse -->
         <b-collapse id="nav-collapse" is-nav class="fs-xl">

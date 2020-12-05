@@ -36,14 +36,6 @@
           alt
         />
       </swiper-slide>
-      <swiper-slide>
-        <img
-          class="w-100"
-          height="auto"
-          src="./../../../src/images/04-m.png"
-          alt
-        />
-      </swiper-slide>
     </swiper>
   </div>
 </template>

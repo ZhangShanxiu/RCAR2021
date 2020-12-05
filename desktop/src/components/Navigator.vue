@@ -2,14 +2,14 @@
   <el-menu
     class="el-menu-demo  fw-xxl"
     mode="horizontal"
-    background-color="rgb(6, 17, 114)"
+    background-color="#3E99C9"
     text-color="#FFF"
-    active-text-color="rgb(220, 220, 220)"
+    active-text-color="#000"
     router
   >
     <el-menu-item index="./">
       <template slot="title">
-        <!-- <p class="el-icon-house pt-2"></p> -->
+        <p class="el-icon-house pt-2"></p>
         Home
       </template>
     </el-menu-item>
@@ -62,8 +62,7 @@
     <el-menu-item>
       <template slot="title">
         <p class="el-icon-question pt-2"></p>
-        <a>
-           <!-- href="https://github.com/leledeyuan00/rcar_wiki/wiki/FAQ"> -->
+        <!-- <a href="https://github.com/leledeyuan00/rcar_wiki/wiki/FAQ"> -->
         FAQ
         </a>
       </template>
@@ -100,15 +99,11 @@ export default {
   position: sticky;
   top: 0;
   z-index: 999;
-  font-family: Arial, Helvetica, sans-serif;
 }
 .el-menu-item {
   font-size: 16px !important;
-  font-family: Arial, Helvetica, sans-serif;
 }
 .el-submenu__title {
   font-size: 16px !important;
-  font-family: Arial, Helvetica, sans-serif;
 }
-
 </style>

@@ -3,7 +3,8 @@
     <h2 span style="color:rgb(0,102,204)">
       Registration
     </h2>
-    <h4 style="margin-top:10px; margin-bottom:10px;">
+    <h1 align="center">Coming Soon...</h1>
+    <!-- <h4 style="margin-top:10px; margin-bottom:10px;">
       Important Notes:
     </h4>
     <h5>
@@ -87,7 +88,7 @@
         width="200"
         height="200"
       />
-    </div>
+    </div> -->
   </div>
 </template>
 
