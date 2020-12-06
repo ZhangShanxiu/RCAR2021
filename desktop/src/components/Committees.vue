@@ -57,6 +57,10 @@
         <p style="margin-left:50px">Bin Guo, Qinghai Univ., China</p>
     <h3 style="margin-left:50px;margin-top:30px;">Financial Chair:</h3>
         <p style="margin-left:50px">Peng Li, HIT Shenzhen, China</p>
+    <h3 style="margin-left:50px;margin-top:30px;">Secretariat:</h3>
+        <p style="margin-left:50px">E-mail: ieee.rcar@gmail.com</p>
+        <p style="margin-left:50px">Chenyang Huang, CAS SIAT, China</p>
+        <p style="margin-left:50px">Zhilong Su, CAS SIAT, China</p>
   </div>
 </template>
 
