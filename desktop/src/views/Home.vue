@@ -67,6 +67,20 @@
       <div class="mx-5 text-center">
         <NewTimeTable />
       </div> -->
+      <!--日历-->
+      <h4 class="pt-2 text-center">
+      Important Dates
+      <i class="el-icon-date el-icon--right"></i>
+    </h4>
+    <el-row type="flex" class="row-bg" justify="space-around">
+      <el-col :span="7.5">
+        <div class="grid-content bg-purple"></div>
+      </el-col>
+    </el-row>
+    <div class="mx-5 text-center">
+      <TimeTable />
+    </div>
+    <!--日历-->
       <h4 class="py-2 text-center border-top">
         Welcome Message
         <i class="el-icon-magic-stick el-icon--right"></i>
@@ -84,6 +98,7 @@ import Carousel from "./../components/Carousel.vue";
 import Body from "./../components/Body.vue";
 import NewAnnouncement from "./../components/NewAnnouncement.vue";
 import NewTimeTable from "./../components/NewTimeTable.vue";
+import TimeTable from "./../components/TimeTable.vue";
 import Announcement from "./../components/Announcement.vue";
 import Download from "./../components/Download.vue";
 import CenferenceSchedule from "./../components/ConferenceSchedule.vue"
@@ -95,7 +110,7 @@ export default {
   components: {
     Carousel,
     Body,
-    // TimeTable,
+    TimeTable,
     // Download,
     // NewAnnouncement,
     // NewTimeTable,

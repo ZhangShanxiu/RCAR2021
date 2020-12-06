@@ -4,7 +4,7 @@
         <h1 style="margin-left:20px;">Call For Papers</h1>
         <Cfp />
     </div>
-    <h4 class="pt-2 text-center">
+    <!-- <h4 class="pt-2 text-center">
       Important Dates
       <i class="el-icon-date el-icon--right"></i>
     </h4>
@@ -15,7 +15,7 @@
     </el-row>
     <div class="mx-5 text-center">
       <TimeTable />
-    </div>
+    </div> -->
 
     <!-- <h1>Call For Paper</h1>
     <p>The 2021 IEEE International Conference on Real-time Computing 

@@ -39,6 +39,8 @@
         <p style="margin-left:50px">Wanfeng Shang, CAS SIAT, China</p>
         <p style="margin-left:50px">Yajing Shen, CityU, Hongkong</p>
         <p style="margin-left:50px">Simon X. Yang, Guelph U. Canada</p>
+        <p style="margin-left:50px">Yongsheng Ou, CAS SIAT, China</p>
+        <p style="margin-left:50px">Rui Song, Shangdong Univ., China</p>
     <h3 style="margin-left:50px;margin-top:30px;">Awards Committee Chairs:</h3>
         <p style="margin-left:50px">Dong Sun,  CityU, Hongkong</p>
         <p style="margin-left:50px">Yongchun Fang, Nankai Univ., China</p>
