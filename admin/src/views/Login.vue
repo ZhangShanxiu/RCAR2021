@@ -26,8 +26,8 @@ export default {
   methods: {
     async login(){
       const res = await this.$http.post('login', this.model)
-      // sessionStorage.token = res.data.token
-      localStorage.token = res.data.token
+      // sessionStorage.token = res.data.token //浏览器不保存账号密码
+      localStorage.token = res.data.token   //浏览器保存账号密码在token中
       this.$router.push('/')
       this.$message({
         type: 'success',
