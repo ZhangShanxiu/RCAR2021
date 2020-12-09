@@ -127,16 +127,24 @@ username : jiang
 password : jiang666
 
 
-### 2021
-username : siat
-
-password : siatsiat
-
 
 ## 说明
 一共有3个端口 admin是管理员后台界面 desktop是桌面版的界面 web是手机版的界面 src里是一些图片 视频 server里是最终的启动文件
 
 
-## 配套学习资料
+## 2021
+
+### Administrator
+username : siat / admin
+
+password : siatsiat
+
+
+### Remark
+如果要编译成静态html文件，可以直接打开的，需要把对应文件夹里的`vue.config.js`（如：`desktop/vue.config.js`）中的`publicPath`的`/`改为`./`。
+
+[vue-cli 3.0打包之后可以本地访问index.html](https://blog.csdn.net/qq_42852004/article/details/94397291)
+
+### 配套学习资料
 - [NodeJs + VueJs (Express + ElementUI) 全栈开发王者荣耀手机端官网和管理后台](https://www.bilibili.com/video/BV1A4411Y7fi?p=2)
 - [视频源码](https://github.com/wxs77577/node-vue-moba)
