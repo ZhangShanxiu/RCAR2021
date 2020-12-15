@@ -1,11 +1,9 @@
 # RCAR2021web
 website of RCAR2021
 
-
-## How to set up
+## 系统设置
 
 ### Install Packages
-
 1. Install Nodejs 
 
     `sudo apt-get install nodejs`
@@ -43,20 +41,17 @@ website of RCAR2021
     `sudo apt install -y nginx certbot python-certbot-nginx`
 
 ### Setup 
-
-1.  Restore Database
+1.  从备份的数据文件夹中恢复数据到本地数据库
 
     `cd src`
 
-    `ls` like this
-
-    ![dump path](./src/images/dump.png)
-
-    Then:
+    然后恢复数据:
 
     `mongorestore`
 
-2. cd `admin` and `desktop` and `web` and `server` then `npm i` and `npm run build`
+2. 分别cd到 `admin` ， `desktop` ， `web` 和 `server` 文件夹中，然后 `npm i`， 再然后编译`npm run build`。
+
+    以`admin`例：
 
     `cd admin`
 
@@ -64,7 +59,7 @@ website of RCAR2021
 
     `npm run build`
 
-    *ps:* `npm run server`可以在本地测试
+    *ps:* 把`npm run build`改为`npm run server`可以在本地测试网站效果
 
 3. run web in localhost://3000
 
@@ -80,51 +75,27 @@ website of RCAR2021
 
 ### Config
 
-1. Config Nginx
+1. 在线配置nginx：
 
-    [Go Nginx config](http://nginxconfig.io)
+    [Go Nginx config](http://nginxedit.cn)
 
-2. choose Nodejs
+2. 根据要求依次选择相应的
+    - **网站配置**选项：Preset，域名等等
+    - **全局配置**选项：刚开始基本不用管
 
-    ![Choose nodejs](./src/images/nginx1.png)
+3. 下载/复制config文件
 
-3. Domain
+4. 把config文件复制到服务器的`/etc/nginx/sites-available/`文件夹中，再在`/etc/nginx/sites-enabled/`中创建一个软连接指向`/etc/nginx/sites-available/`中的config文件
 
-    ![Domain](./src/images/nginx2.png)
-
-4. Disable Https
-
-    ![Disable](./src/images/nginx3.png)
-
-5. Download config file
-
-    ![Download](./src/images/nginx4.png)
-6. Extract 
-
-    ![Extract](./src/images/nginx5.png)
-
-7. Cp
-
-    `cp sites-available/ieee-rcar.org.conf /etc/nginx/sites-available/`
+    例如域名为`test.com`：
+    `cp sites-available/test.com.conf /etc/nginx/sites-available/`
 
     `cd /etc/nginx/sites-avaible`
 
-    `sudo ln -s ../sites-available/ieee-rcar* /etc/nginx/sites-enabled/` 
+    `sudo ln -s ../sites-available/test* /etc/nginx/sites-enabled/` 
 
-    !! Change me@example.com to your email
-
-    `sudo certbot --non-interactive --redirect --agree-tos --nginx -d ieee-rcar.org -m me@example.com`
-
-
-### How to Use admin
-
-> after nginx domain ieee-rcar.org
-
-visit : www.ieee-rcar.org/admin
-
-username : jiang
-
-password : jiang666
+5. !! Change me@example.com to your email
+    `sudo certbot --non-interactive --redirect --agree-tos --nginx -d test.com -m me@example.com`
 
 
 
@@ -132,19 +103,16 @@ password : jiang666
 一共有3个端口 admin是管理员后台界面 desktop是桌面版的界面 web是手机版的界面 src里是一些图片 视频 server里是最终的启动文件
 
 
-## 2021
-
-### Administrator
+## Administrator
 username : siat / admin
 
 password : siatsiat
 
-
-### Remark
+## Remark
 如果要编译成静态html文件，可以直接打开的，需要把对应文件夹里的`vue.config.js`（如：`desktop/vue.config.js`）中的`publicPath`的`/`改为`./`。
 
 [vue-cli 3.0打包之后可以本地访问index.html](https://blog.csdn.net/qq_42852004/article/details/94397291)
 
-### 配套学习资料
+## 配套学习资料
 - [NodeJs + VueJs (Express + ElementUI) 全栈开发王者荣耀手机端官网和管理后台](https://www.bilibili.com/video/BV1A4411Y7fi?p=2)
 - [视频源码](https://github.com/wxs77577/node-vue-moba)
