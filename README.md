@@ -111,6 +111,8 @@ password : siatsiat
 ## Remark
 如果要编译成静态html文件，可以直接打开的，需要把对应文件夹里的`vue.config.js`（如：`desktop/vue.config.js`）中的`publicPath`的`/`改为`./`。
 
+*ps:* `outputDir:`可以改为你想要编译到的目的路径
+
 [vue-cli 3.0打包之后可以本地访问index.html](https://blog.csdn.net/qq_42852004/article/details/94397291)
 
 ## 配套学习资料
